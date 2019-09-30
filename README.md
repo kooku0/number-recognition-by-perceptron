@@ -135,3 +135,6 @@ void checking(vector<int> sampleV) {
 }
 ```
 
+### Reference
+* https://pythonmachinelearning.pro/perceptrons-the-first-neural-networks/
+* https://wikidocs.net/24958
